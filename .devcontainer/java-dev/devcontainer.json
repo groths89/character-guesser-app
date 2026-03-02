@@ -1,0 +1,20 @@
+{
+  "name": "Java Environment",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven",
+        "shengchen.vscode-checkstyle",
+        "ryanluker.vscode-coverage-gutters",
+        "humao.rest-client",
+        "SonarSource.sonarlint-vscode",
+        "google.gemini-code-assist-vscode",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker"
+      ]
+    }
+  }
+}
